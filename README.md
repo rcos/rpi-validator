@@ -15,3 +15,4 @@ rpiValidator.isRIN('667986864'); //true
 - isISO()
 - isRIN()
 - isSubjectCode()
+- isRPIEmail()
