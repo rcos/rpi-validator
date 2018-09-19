@@ -9,7 +9,12 @@ describe('isRIN()', () => {
     });
 
     it('should return false for an eleven digit decimal number as a string', () => {
-        expect(isRIN('66286682922')).to.be.true;
+        expect(isRIN('66286682922')).to.be.false;
+    });
+
+
+    it('should return false for an nine digit decimal number as a string', () => {
+        expect(isRIN('662866829')).to.be.false;
     });
 
     it('should return true for a ten digit decimal number as a string', () => {

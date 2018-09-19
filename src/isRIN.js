@@ -7,5 +7,5 @@
  */
 export default function isRIN(input) {
     if (typeof input !== 'string') throw new TypeError('input to must be of type string');
-    return /\d{10}/.test(input);
+    return /^\d{10}$/.test(input);
 }
