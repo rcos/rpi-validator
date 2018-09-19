@@ -1,0 +1,27 @@
+{
+  "name": "rpi-validator",
+  "version": "1.0.0",
+  "description": "This repository contains string validation specific to RPI. Powered by Rensselaer Center for the Open Source.",
+  "main": "index.js",
+  "repository": "git@github.com:jake-billings/rpi-validator.git",
+  "author": "jakebillings <jake@jakebillings.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "chai": "^4.1.2",
+    "eslint": "^5.6.0",
+    "eslint-plugin-jsdoc": "^3.8.0",
+    "eslint-plugin-optimize-regex": "^1.1.6",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "@babel/register": "^7.0.0",
+    "eslint-plugin-chai": "^0.0.1",
+    "eslint-plugin-mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha --require @babel/register"
+  }
+}

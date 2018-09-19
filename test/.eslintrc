@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "mocha",
+    "chai"
+  ],
+  "env": {
+    "mocha": true
+  }
+}
