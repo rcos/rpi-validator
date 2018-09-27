@@ -3,6 +3,10 @@ This repository contains string validation specific to RPI. Powered by Rensselae
 
 This package only validates strings. It does not validate inputs with `number` or other types.
 
+### Install ###
+ - Npm: `npm install rpi-validator`
+ - Yarn: `yarn install rpi-validator`
+
 ### Example ###
 ```
 let rpiValidator = require('rpi-validator');
