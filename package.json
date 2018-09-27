@@ -1,6 +1,6 @@
 {
   "name": "rpi-validator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This repository contains string validation specific to RPI. Powered by Rensselaer Center for the Open Source.",
   "main": "src/index.js",
   "repository": "git@github.com:jake-billings/rpi-validator.git",
