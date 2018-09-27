@@ -16,6 +16,7 @@ rpiValidator.isRIN('667986864'); //true
 ```
 
 ### Available Validators ###
+- isCRN()
 - isISO()
 - isRIN()
 - isSubjectCode()
