@@ -1,4 +1,4 @@
-# rpi-validator [![Build Status](https://travis-ci.org/rcos/rpi-validator.svg?branch=master)](https://travis-ci.org/rcos/rpi-validator) ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg) ![npm](https://img.shields.io/npm/dt/:package.svg)
+# rpi-validator [![Build Status](https://travis-ci.org/rcos/rpi-validator.svg?branch=master)](https://travis-ci.org/rcos/rpi-validator) ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg) ![npm](https://img.shields.io/npm/dt/rpi-validator.svg)
 
 ![rcos](art/rcos-logo-300.png)
 
