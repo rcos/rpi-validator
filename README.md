@@ -1,4 +1,7 @@
 # rpi-validator [![Build Status](https://travis-ci.org/rcos/rpi-validator.svg?branch=master)](https://travis-ci.org/rcos/rpi-validator)
+
+![rcos](art/rcos-logo-300.png)
+
 This repository contains string validation specific to RPI. Powered by Rensselaer Center for the Open Source.
 
 This package only validates strings. It does not validate inputs with `number` or other types.
