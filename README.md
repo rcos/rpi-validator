@@ -10,6 +10,8 @@ This package only validates strings. It does not validate inputs with `number` o
  - Npm: `npm install rpi-validator`
  - Yarn: `yarn install rpi-validator`
 
+View the project on NPM: https://www.npmjs.com/package/rpi-validator
+
 ### Example ###
 ```
 let rpiValidator = require('rpi-validator');
