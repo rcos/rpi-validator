@@ -1,6 +1,6 @@
 {
   "name": "rpi-validator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This repository contains string validation specific to RPI. Powered by Rensselaer Center for the Open Source.",
   "main": "src/index.js",
   "repository": "git@github.com:jake-billings/rpi-validator.git",
@@ -23,5 +23,26 @@
   },
   "scripts": {
     "test": "mocha --require @babel/register"
-  }
+  },
+  "keywords": [
+    "rpi",
+    "rensselaer",
+    "rensselaer polytechnic institute",
+    "validator",
+    "validation",
+    "rin",
+    "rin validator",
+    "rensselaer identification number",
+    "rensselaer identification number validator",
+    "crn",
+    "crn validator",
+    "course registration number validator",
+    "iso",
+    "iso number validator",
+    "subject code",
+    "subject code validator",
+    "string",
+    "rcos",
+    "rensselaer center for the open source"
+  ]
 }
